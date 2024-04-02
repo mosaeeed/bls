@@ -12,7 +12,7 @@
     'use strict';
 
     // URL of the JSON file on GitHub
-    const jsonUrl = 'https://raw.githubusercontent.com/username/repository/main/users.json';
+    const jsonUrl = 'https://raw.githubusercontent.com/mosaeeed/bls/main/users.json?token=GHSAT0AAAAAACQNL67EOZV5LUQAUACYMFB6ZQLVEFQ';
 
     // Fetch the JSON data from GitHub
     fetch(jsonUrl)
